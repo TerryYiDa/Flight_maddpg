@@ -16,5 +16,9 @@ This is a tensorflow implementation of [MADDPG](https://blog.openai.com/learning
 
 3 Train <br>
 -------
-python train_code.py
+python train_code.py <br>
+
+4 Result <br>
+-------
+Three Agent include Competition and cooperation
 
